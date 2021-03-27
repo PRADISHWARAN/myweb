@@ -1,0 +1,205 @@
+body{
+  background-color: antiquewhite;
+  font-family: 'Dancing Script', cursive;
+}
+
+.FIRSTBOX{
+
+  height: 550px;
+  width: 1300px;
+margin:50px;
+position: relative;
+left: 200px;
+padding: 20px;
+letter-spacing: 2px;
+
+
+}
+
+
+
+.SECONDBOX{
+
+
+  height: 550px;
+  width: 980px;
+  margin:50px;
+  position: relative;
+  left: 200px;
+  padding: 20px;
+  letter-spacing: 4px;
+}
+
+
+
+
+
+
+
+
+
+.suriyaimage{
+  position: relative;
+left: 300px;
+}
+
+  .btn {
+font-size: 25px;
+position: relative;
+left: 250px;
+top: 50px
+}
+
+
+
+
+
+
+
+.webimage{
+  width: 80px;
+  position: relative;
+  left: 1000px;
+  float: left;
+}
+
+h1{
+  text-align: center;
+}
+.span1{
+  letter-spacing: 4px;
+  line-height: 2;
+  font-size: 25px;
+
+}
+.about{
+  font-size: 300%;
+  font-style: Cursive
+}
+.span3{
+  line-height: 6;
+  letter-spacing: 1px;}
+
+
+.schooliamge{
+  width: 10%;
+  position: relative;
+  bottom: 100px;
+  right: 200px;
+
+}
+
+
+.container{
+
+
+  height: 1000px;
+  width: 1050px;
+  margin:400px 0 0 0;
+  position: relative;
+  bottom: 100px;
+  left: 250px;
+}
+.thirdbox{
+
+text-align: center;
+  height: 600px;
+  width: 780px;
+  position: absolute;
+margin: 30px;
+padding: 50px;
+
+
+}
+.cricketimage{
+  width: 10%;
+  position: absolute;
+  top: 250px;
+  right: 1px;
+}
+.favgame{
+  font-size: 150%;
+  line-height: 7;
+}
+.chessiamge{
+  width: 10%;
+  position: absolute;
+  right: 10px;
+  bottom: 90px;
+}
+h5{
+  font-size: 200%;
+}
+
+hr{
+  border: dotted;
+  
+
+}
+
+
+.fourthbox{
+
+  height: 900px;
+  width: 980px;
+  margin: 250px;
+padding: 50px;
+}
+.worry{
+  font-size: 30px;
+
+}
+.experience{
+  letter-spacing: 3px;
+  line-height: 30px;
+}
+
+.worrieds{
+  width: 10%;
+  position: relative;
+  left: 800px;
+  bottom: 780px;
+}
+
+
+.fifthbox{
+
+  height: 200px;
+width: 980px;
+margin: 250px;
+padding: 10px;
+position: relative;
+
+}
+.btn{
+  font-size: 200%;
+  position: absolute;
+  left: 480px;
+  top: 80px;
+}
+.btn {
+  background: #d488a6;
+  background-image: -webkit-linear-gradient(top, #d488a6, #245878);
+  background-image: -moz-linear-gradient(top, #d488a6, #245878);
+  background-image: -ms-linear-gradient(top, #d488a6, #245878);
+  background-image: -o-linear-gradient(top, #d488a6, #245878);
+  background-image: linear-gradient(to bottom, #d488a6, #245878);
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family: Courier New;
+  color: #fff7ff;
+  font-size: 25px;
+  padding: 22px 22px 22px 22px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #456270;
+  background-image: -webkit-linear-gradient(top, #456270, #1071a1);
+  background-image: -moz-linear-gradient(top, #456270, #1071a1);
+  background-image: -ms-linear-gradient(top, #456270, #1071a1);
+  background-image: -o-linear-gradient(top, #456270, #1071a1);
+  background-image: linear-gradient(to bottom, #456270, #1071a1);
+  text-decoration: none;
+}
